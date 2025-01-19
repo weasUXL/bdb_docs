@@ -24,24 +24,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换至浅色模式
-        
-  features:
-    - content.action.edit
-    - content.action.view
-    - content.code.copy
-    - content.tooltips
-    - navigation.footer
-    - navigation.indexes
-    - navigation.top
-    - navigation.tracking
-    - content.zoom
 
 plugins:
-
   - roamlinks
-
-extra:
-  generator: false
 
 markdown_extensions:
   - admonition
@@ -57,5 +42,3 @@ markdown_extensions:
   - markdown.extensions.def_list
   - toc:
       title: 目录
-
-

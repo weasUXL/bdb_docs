@@ -1,6 +1,6 @@
 site_name: 病毒吧进吧导航（长期更新）
 site_url: https://test.aaqwq.me
-repo_url: https://github.com/
+repo_url: https://github.com/weasUXL/bdb_docs
 copyright: Copyright © 2025
 
 theme:
@@ -34,6 +34,7 @@ theme:
     - navigation.indexes
     - navigation.top
     - navigation.tracking
+    - content.zoom
 
 plugins:
 

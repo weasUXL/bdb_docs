@@ -3,5 +3,5 @@ mkdocs-get-deps
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-mermaid2-plugin
-mkdocs-glightbox-plugin
+mkdocs-glightbox
 

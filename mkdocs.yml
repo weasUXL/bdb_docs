@@ -6,8 +6,8 @@ copyright: Copyright © 2025
 theme:
   name: material
   language: zh
-  favicon: images/logo.png  
-  logo: images/logo.png  
+  favicon: images/favicon.ico
+  logo: images/logo.png
 
   palette:
     - scheme: default
@@ -25,23 +25,23 @@ theme:
         icon: material/weather-sunny
         name: 切换至浅色模式
 
-features:
-  - content.action.edit
-  - content.action.view
-  - content.code.copy
-  - content.tooltips
-  - navigation.footer
-  - navigation.indexes
-  - navigation.top
-  - navigation.tracking
-  - content.zoom
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - content.zoom
 
-    
 plugins:
-  - roamlinks
-  
+  - glightbox
+
 extra:
-  generator: false  
+  generator: false
 
 markdown_extensions:
   - admonition

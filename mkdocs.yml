@@ -39,21 +39,10 @@ theme:
 
 plugins:
   - glightbox
-  - search
-  - encryptcontent:
-      title_prefix: '[已加密]'
-      summary: '按照首页提示阅读完相关章节获取密码！'
-      placeholder: '请输入密码'
-      decryption_failure_message: ' 不要乱输密码(* ￣︿￣))'
-      encryption_info_message: "阅读完毕网页会自动弹出窗口显示密码"
-      password_button: true  
-      password_button_text: '我要加群'
 
 extra:
   generator: false
   
-extra_javascript:
-  - assets/js/viewqun.js  
 
 markdown_extensions:
   - admonition

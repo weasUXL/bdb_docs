@@ -47,9 +47,3 @@
 | ☆ [附、ID查询](/8.黑榜/#id) | 如何查阅一个吧友贴吧ID以及用户名。 |
 
 PS：如果/认为自己被27世纪的无线微型飞行机器人**控制**/手机、计算机等**设备/**被外星人或者其他不明生物等**监听/**怀疑自己被“脑控”，无法给出**实质性证据**的，或者其他可能患有精神疾病、神经系统疾病或者心理疾病的人群，建议前往**宛平南路600号**预约专家门诊，及时向专业的医师与专业的心理咨询师寻求帮助，尽快进行相关的咨询、指导、治疗等。
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    localStorage.setItem('page_read_' + window.location.pathname, 'true');
-  });
-</script>
